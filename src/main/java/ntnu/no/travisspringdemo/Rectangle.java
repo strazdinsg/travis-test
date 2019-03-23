@@ -16,4 +16,12 @@ public class Rectangle {
     int getArea() {
         return (width + height) * 2;
     }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
 }
