@@ -1,4 +1,4 @@
 # travis-test
-[![Build Status](https://travis-ci.org/strazdinsg/travis-test.svg?branch=master)](https://travis-ci.org/strazdinsg/travis-test)
+[![Build Status](https://travis-ci.com/strazdinsg/travis-test.svg?branch=master)](https://travis-ci.com/strazdinsg/travis-test.svg)
 
 Test for GitHub + Travis CI/CD
