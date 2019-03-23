@@ -23,4 +23,10 @@ public class RectangleTest {
         Rectangle r = new Rectangle(2, 3);
         assertEquals(2 * (2 + 3), r.getPerimeter());
     }
+
+    @Test
+    public void someTest() {
+        Rectangle r = new Rectangle(2, 3);
+        assertEquals(3, r.getHeight());
+    }
 }
