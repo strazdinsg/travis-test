@@ -27,6 +27,6 @@ public class RectangleTest {
     @Test
     public void someTest() {
         Rectangle r = new Rectangle(2, 3);
-        assertEquals(3, r.getWidth());
+        assertEquals(3, r.getHeight());
     }
 }
