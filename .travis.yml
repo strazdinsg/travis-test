@@ -3,3 +3,7 @@ jdk: oraclejdk8
 
 script:
   - mvn clean install -B
+
+branches:
+  only:
+    - master
