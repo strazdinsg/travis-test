@@ -10,4 +10,16 @@ public class TravisSpringDemoApplication {
 		SpringApplication.run(TravisSpringDemoApplication.class, args);
 	}
 
+
+	public int f1() {
+		return 3;
+	}
+
+	public int f2() {
+		return 4;
+	}
+
+	public int f3() {
+		return 5;
+	}
 }
